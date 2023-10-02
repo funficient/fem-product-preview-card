@@ -101,7 +101,7 @@ body {
 }
 
 .image-container {
-    background-image: url(/assets/image-product-desktop.jpg);
+    background-image: url(./assets/image-product-desktop.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -166,7 +166,7 @@ p {
     }
 
     .image-container {
-        background-image: url(/assets/image-product-mobile.jpg);
+        background-image: url(./assets/image-product-mobile.jpg);
         background-position: center;
     }
     
